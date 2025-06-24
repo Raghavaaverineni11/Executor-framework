@@ -15,7 +15,6 @@ public class Hello {
 
         System.out.println(Thread.currentThread().getName());
         e.shutdown();
-        System.out.println(e.isShutdown());
 
 
 
